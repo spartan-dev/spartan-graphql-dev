@@ -1,0 +1,6 @@
+#dependenci directory
+node_modules
+#debug log from npm
+npm-debug.log
+#enviroment variables
+.env
