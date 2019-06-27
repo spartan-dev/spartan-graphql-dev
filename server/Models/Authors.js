@@ -7,9 +7,4 @@ const authorSchema = new Schema({
 });
 
 
-
-
-const autii = new Schema({
-    nadie:console.log("nadie")
-})
 module.exports = mongoose.model('Author',authorSchema);
